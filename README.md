@@ -182,6 +182,10 @@ This project demonstrates practical concepts related to:
 * Flask web development
 * Secure handling of password input
 
+  ## 🖥️ Dashboard
+
+![Password Strength Checker Dashboard](result.png)
+
 ## 🔮 Future Improvements
 
 Possible future enhancements include:
