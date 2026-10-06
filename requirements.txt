@@ -1,0 +1,5 @@
+# No external dependencies required
+The project uses Python's built-in libraries:
+
+re
+getpass
